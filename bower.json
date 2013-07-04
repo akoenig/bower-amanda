@@ -1,0 +1,10 @@
+{
+  "name": "bower-amanda",
+  "version": "0.4.6",
+  "main": "amanda.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
